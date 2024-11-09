@@ -57,8 +57,3 @@ The project involved seven datasets, containing information on:
 1. **Content Focus**: Increase the volume of posts in the top-performing categories to drive user engagement.
 2. **Posting Strategy**: Capitalize on high-activity months to boost content reach.
 3. **User Interaction**: Explore further engagement options around high-interest reaction types.
-
-## Project Files
-- **[Link to analysis scripts]** - Python files containing the data cleaning and analysis steps.
-- **[Link to visualizations]** - Graphs and charts used in the presentation.
-- **Presentation.pdf** - Final presentation slides with recommendations.
