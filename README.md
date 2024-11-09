@@ -8,6 +8,23 @@ This project was part of a data analytics job simulation, where I analyzed conte
 - Identify the top 5 content categories by popularity.
 - Provide recommendations for maximizing user engagement based on data-driven insights.
 
+## Folder Structure
+```bash
+SocialBuzz_JobSimulation/
+│
+├── README.md
+├── Client_requirementrs/ Data_Analytics Client Brief
+├── RawData/
+│   ├── Content.csv
+│   ├── Reactions.csv
+│   └── ReactionTypes.csv
+├── DataModel.pdf
+├── presentation/
+│   └── Presentation.pdf
+│   └── video_link.txt (optional)
+├── Cleaned_Final_Data.xlsx
+```
+
 ## Datasets
 The project involved seven datasets, containing information on:
 1. **User interactions** - Types of reactions and timestamps.
